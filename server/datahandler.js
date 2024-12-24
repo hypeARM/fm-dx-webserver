@@ -238,8 +238,8 @@ var dataToSend = {
     reg: false,
     pi: '',
   },
-  country_name: '',
-  country_iso: 'UN',
+  country_name: 'Brazil',
+  country_iso: 'BR',
   users: 0,
 };
 
