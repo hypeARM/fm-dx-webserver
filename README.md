@@ -52,7 +52,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 ## License
 
-This project is licensed under the [GNU-GPL v3 License](LICENSE.md).
+This project is licensed under the [GNU-GPL v3 License](LICENSE).
 Always check with your country's laws before hosting a webserver.
 
 Happy DXing! 🎶📡
